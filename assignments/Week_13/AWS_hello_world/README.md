@@ -6,12 +6,12 @@
 
 # <h1 align="center" id="heading">AWS "Hello World"</h1>
 
-For this assignment, our goal will be to run python on a cloud server on Amazon Web Services(AWS). We will essentially be using AWS as a virtual machine. The AWS cloud server we'll be using today is called Elastic Compute Cloud (EC2).
+For this assignment, our goal will be to run python on a cloud server on Amazon Web Services (AWS). We will essentially be using AWS as a virtual machine. The AWS cloud server we'll be using today is called Elastic Compute Cloud (EC2).
 
 We'll first start by creating a repository and modifying it on our local machine. We'll then launch an EC2 instance (server) with a specific configuration so we can access it publicly. From there, we'll add our files that we modified to server and test it.
 
 
-## Setting up the Repository
+### Setting up the Repository
 <details>
      <summary><b>Click to Expand</b></summary>
 
@@ -50,7 +50,14 @@ Then click `Create Repository`.
 
 </details>
 
-## Cloning our Repository
+
+
+
+
+
+
+
+### Cloning our Repository
 <details>
      <summary><b>Click to Expand</b></summary>
 
@@ -80,8 +87,7 @@ Copy the link from your newly created repository and clone it on your machine us
 
 
 
-
-## Creating and Modifying our `Main.py`
+### Creating and Modifying our `Main.py`
 <details>
      <summary><b>Click to Expand</b></summary>
 
@@ -147,8 +153,7 @@ Click on `View` and then `Terminal`
 
 
 
-
-## Launching an AWS Instance
+### Launching an AWS Instance
 <details>
      <summary><b>Click to Expand</b></summary>
 
@@ -266,14 +271,7 @@ Click on `SSH Client`. There, you will find instructions on how to connect using
 
 
 
-
-
-
-
-
-
-
-## Accessing the EC2 Instance using SSH
+### Accessing the EC2 Instance using SSH
 <details>
      <summary><b>Click to Expand</b></summary>
 
@@ -328,9 +326,7 @@ Paste that command in terminal and confirm by type `yes` when prompted about con
 
 
 
-
-
-## Setting up the EC2 Environment
+### Setting up the EC2 Environment
 <details>
      <summary><b>Click to Expand</b></summary>
 
