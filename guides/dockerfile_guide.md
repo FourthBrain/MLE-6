@@ -9,7 +9,7 @@
 <br>
 
 
-##### Build and Run a Standard Template for a Dockerfile
+### Build and Run a Standard Template for a Dockerfile
 
 <details>
   <summary>Click to Expand</summary>
@@ -55,7 +55,7 @@ $ docker run -it --rm --name my-running-app my-python-app
 
 
 
-##### Build and Run a Custom Template for a Dockerfile using Ports
+### Build and Run a Custom Template for a Dockerfile using Ports
 
 <details>
   <summary>Click to Expand</summary>
