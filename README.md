@@ -97,5 +97,3 @@ Then click `Create Repository`.
 </p>
 
 </details>
-
-### That's it for now!  And so it begins.... :)
