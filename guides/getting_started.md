@@ -57,11 +57,11 @@ Go through the prompts and select yes when asked to continue. Then after install
 ## Github Set Up
 4. If you don't already have one, make an account on [Github](https://github.com/). Then login and navigate to the top right user icon, click it, go to repositories, 
    
-![repositories button](../images/github_repositories_button.JPG)
+![github_repositories_button](https://user-images.githubusercontent.com/37101144/165583216-0ab7c17b-561e-45d8-a6c7-f138399d1e3b.JPG)
 
 and then click "New" (the green button).
 
-![repositories new](../images/github_new_repository_button.JPG)
+![github_new_repository_button](https://user-images.githubusercontent.com/37101144/165583414-86b59c04-f28b-4e19-94f9-225dfbc7a84b.JPG)
 
 5. Create the repository by inputting the following:
 * Repo name
@@ -73,11 +73,11 @@ and then click "New" (the green button).
 
 Then hit "Create Repository".
 
-![create repo](../images/github_create_repo.JPG)
+![github_create_repo](https://user-images.githubusercontent.com/37101144/165583457-ee74f1a4-8517-4487-80de-fb592c45b33a.JPG)
 
 6. Now that you have a repo, go to the code section and copy the HTTPS address so you can clone your repo to your local computer.
 
-![clone repo](../images/github_clone.JPG)
+![github_clone](https://user-images.githubusercontent.com/37101144/165583522-0f4c4350-412a-4c60-9d07-d324da65c087.JPG)
 
 ## Clone Your Repo
 7. Open your terminal and navigate to a place where you would like to make a directory to hold all your files for this class using the command `cd`. Once there, make a top level directory using `mkdir`. `cd` into it and make another directory called `code`. `cd` into it and run your `git clone {address}` command. `cd` into your repository and type `code .` to open up your repositiory in VS Code. This should pop up a VS Code window with your repository open.
@@ -127,7 +127,7 @@ Then hit "Create Repository".
     ```
 18. Run the cell and you should see your histogram plot! Well done. 
 
-![coding histogram](../images/coding_histogram.JPG)
+![coding_histogram](https://user-images.githubusercontent.com/37101144/165583572-f9f6ae4f-33fb-4d19-9c13-f9fe3743e72a.JPG)
 
 
 ## Push Changes To Repo
