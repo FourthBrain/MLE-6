@@ -4,7 +4,7 @@
 </p>
 
 
-# <h1 align="center" id="heading">Intro to Docker and installation</h1>
+# <h1 align="center" id="heading">Introduction to Docker and Installation</h1>
 
 
 ### Why Docker?
