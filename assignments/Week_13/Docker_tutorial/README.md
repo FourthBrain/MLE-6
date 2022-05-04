@@ -58,3 +58,9 @@ docker container stop <CONTAINER ID>
 This will close the application!
 
 Hit Close session to end your Docker playground session!
+
+
+#### Resources
+[Introduction to Docker and Installation](/guides/docker_guide.md)
+[Docker Cheat sheet](https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf) \
+[Docker Ultimate Guide](https://github.com/wsargent/docker-cheat-sheet/blob/master/README.md)
