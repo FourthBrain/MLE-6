@@ -18,6 +18,7 @@ https://hub.docker.com/
 https://labs.play-with-docker.com/
 
 3. In the page that opens up, click `Add Instance` on the left panel. You are now ready to enter commands in the terminal.
+![image](https://user-images.githubusercontent.com/37101144/166613197-5838cc5b-e9a0-4de7-a25b-0093bd72f03d.png)
 
 
 This command gives you the version of docker
@@ -42,6 +43,7 @@ This command shows the exposed ports/containers
 
 Whenever a port is exposed, the port number will be visible on the top (as shown below, see 80 in purple next to OPEN PORT Button]. If you click on the number 80, the localhost version of the docker image will open up.
 
+![image](https://user-images.githubusercontent.com/37101144/166613213-76bd39df-5614-4bcc-ab85-459a02faca9f.png)
 
 
 Notice the CONTAINER ID from the output of `docker ps`
