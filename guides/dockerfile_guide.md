@@ -18,7 +18,7 @@
 
 <b>Dockerfile</b>
 
-This is an example of a basic Dockerfile. A Dockerfile is a set of instructions for writing a Docker image. See the next section in `Custom Template for a Dockerfile using Ports` for a detailed explanation of each line.
+This is an example of a basic Dockerfile. A Dockerfile is a set of instructions for writing a Docker image. See the next section in `Build and Run a Custom Template for a Dockerfile using Ports` for a detailed explanation of each line.
 
 ``` Bash
 FROM python:3
