@@ -99,6 +99,6 @@ Then click `Create Repository`.
 </details>
 
 ## Guides
-[Getting Started Full Guide](guides/getting_started.md)\
+[Getting Started](guides/getting_started.md)\
 [Terminal Commands](guides/commands.md)\
 [Connecting to AWS & GCP](guides/connect_to_aws_gcp_vm.md)
