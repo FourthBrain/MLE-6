@@ -2,7 +2,7 @@ Use `FastAPI_hello_world` and `FastAPI_HuggingFace` to Deploy a <i>containerized
 
 You may use `FastAPI` (as above), `Flask`, or `Django`.
 
-For more information on how to write a `Dockerfile` to deploy containerized applications, check out our [Dockerfile Guide](https://github.com/FourthBrain/MLO3/blob/main/guides/dockerfile_guide.md)
+For more information on how to write a `Dockerfile` to deploy containerized applications, check out our [Dockerfile Guide](guides/dockerfile_guide.md)
 
 ###### Deliverables:
 - Submit a link to your GitHub repo
