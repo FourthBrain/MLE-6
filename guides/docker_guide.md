@@ -52,7 +52,7 @@ docker run --rm docker/whalesay cowsay "deploying ML models is fun"
 ```
 This command will try to run the `docker/whalesay` image. Since you probably don't have this image installed, Docker will look for it in the [Docker Hub](https://hub.docker.com/) and pull it to your machine to run it. If everything worked well you should see the following image printed in your command line:
 
-![whalesay](../assets/whalesay.png)
+![whalesay](https://user-images.githubusercontent.com/37101144/166609516-72cd571d-ff5e-4ffd-a970-90187f7e637c.png)
 
 If you think of a funny thing for the Docker whale to say be sure to replace the message above with it and send the image to your friends.
 
